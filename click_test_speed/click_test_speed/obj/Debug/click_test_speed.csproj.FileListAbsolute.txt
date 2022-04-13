@@ -1,0 +1,11 @@
+C:\Users\HoangNout\Videos\Click_speed_test\click_test_speed\click_test_speed\bin\Debug\click_test_speed.exe.config
+C:\Users\HoangNout\Videos\Click_speed_test\click_test_speed\click_test_speed\bin\Debug\click_test_speed.exe
+C:\Users\HoangNout\Videos\Click_speed_test\click_test_speed\click_test_speed\bin\Debug\click_test_speed.pdb
+C:\Users\HoangNout\Videos\Click_speed_test\click_test_speed\click_test_speed\obj\Debug\click_test_speed.csproj.AssemblyReference.cache
+C:\Users\HoangNout\Videos\Click_speed_test\click_test_speed\click_test_speed\obj\Debug\click_test_speed.csproj.SuggestedBindingRedirects.cache
+C:\Users\HoangNout\Videos\Click_speed_test\click_test_speed\click_test_speed\obj\Debug\click_test_speed.Form1.resources
+C:\Users\HoangNout\Videos\Click_speed_test\click_test_speed\click_test_speed\obj\Debug\click_test_speed.Properties.Resources.resources
+C:\Users\HoangNout\Videos\Click_speed_test\click_test_speed\click_test_speed\obj\Debug\click_test_speed.csproj.GenerateResource.cache
+C:\Users\HoangNout\Videos\Click_speed_test\click_test_speed\click_test_speed\obj\Debug\click_test_speed.csproj.CoreCompileInputs.cache
+C:\Users\HoangNout\Videos\Click_speed_test\click_test_speed\click_test_speed\obj\Debug\click_test_speed.exe
+C:\Users\HoangNout\Videos\Click_speed_test\click_test_speed\click_test_speed\obj\Debug\click_test_speed.pdb
